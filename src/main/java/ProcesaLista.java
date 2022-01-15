@@ -24,7 +24,7 @@ public class ProcesaLista {
 
             min = Math.min(min, x);
             max = Math.max(max, x);
-            suma = suma + x;
+            suma += x;
 
 
         }
